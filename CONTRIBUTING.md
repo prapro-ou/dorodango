@@ -15,6 +15,16 @@ Actually, this project is for the cource "Practical Programming" that was opened
 1. この repository を clone し，Unity Hub で開きます．
 1. 以下に示される Asset を Import します．
    - [Yughues Free Ground Materials][yughues-free-ground-materials-13001]
+   - [stones][Stones]
+   - [Metal Grids Pbr][metal-grids-pbr-139298]
+   - [Korea Craft Design Interior Item][korea-craft-design-interior-item-252023]
+   - [Rpg Essentials Sound Effects Free][rpg-essentials-sound-effects-free-227708]
+   - [25 Free Realistic Textures Nature City Home Construction More][25-free-realistic-textures-nature-city-home-construction-more-240323]
 1. そのまま開発します．
 
 [yughues-free-ground-materials-13001]: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
+[Stones]:https://assetstore.unity.com/packages/3d/props/exterior/stones-40329
+[metal-grids-pbr-139298]:https://assetstore.unity.com/packages/2d/textures-materials/metal-grids-pbr-139298
+[korea-craft-design-interior-item-252023]:https://assetstore.unity.com/packages/3d/props/interior/korea-craft-design-interior-item-252023
+[rpg-essentials-sound-effects-free-227708]:https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708
+[25-free-realistic-textures-nature-city-home-construction-more-240323]:https://assetstore.unity.com/packages/2d/textures-materials/25-free-realistic-textures-nature-city-home-construction-more-240323
