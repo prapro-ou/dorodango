@@ -6,10 +6,10 @@ public class Objectgen : MonoBehaviour
 {
     public GameObject[] items; // ランダムに配置するアイテムのプレハブなどを配列に格納
 
-    public float minX = -10f; // ゲーム画面のx座標の最小値
-    public float maxX = 10f; // ゲーム画面のx座標の最大値
-    public float minZ = -5.5f; // ゲーム画面のz座標の最小値
-    public float maxZ = 5.5f; //ゲーム画面のz座標の最大値
+    public float minX = -9f; // ゲーム画面のx座標の最小値
+    public float maxX = 9f; // ゲーム画面のx座標の最大値
+    public float minZ = -4.5f; // ゲーム画面のz座標の最小値
+    public float maxZ = 4.5f; //ゲーム画面のz座標の最大値
 
     void Start()
     {
