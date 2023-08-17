@@ -53,20 +53,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d268fa77e4430348bd88c95c319a680, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  items:
-  - {fileID: 7037030764226725450}
-  - {fileID: 3863012575912251131}
-  - {fileID: 5737129240490882589}
-  - {fileID: 3800203685267519356}
-  - {fileID: 7037030764226725450}
-  - {fileID: 983870733768119903}
-  - {fileID: 4614508898061579569}
-  - {fileID: 907023445938732873}
-  - {fileID: 2835117990588793277}
-  minX: -9
-  maxX: 9
-  minZ: -4.5
-  maxZ: 4.5
+  minPosition:
+    x: -7
+    z: -2.5
+  maxPosition:
+    x: 7
+    z: 2.5
 --- !u!114 &4298858567388677351
 MonoBehaviour:
   m_ObjectHideFlags: 0
