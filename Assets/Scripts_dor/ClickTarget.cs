@@ -11,8 +11,7 @@ public class ClickTarget : MonoBehaviour
     {
         collider = GetComponent<Collider>();
         audioSource = GetComponent<AudioSource>();
-        var newPosition = new Vector3(Random.Range(-0.8f, 0.8f), Random.Range(-0.4f, 0.7f), -1.36f);
-        transform.position = newPosition;
+        MoveRandomly();
     }
 
     public void OnTargetCleared()
