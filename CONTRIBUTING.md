@@ -20,17 +20,15 @@ Actually, this project is for the cource "Practical Programming" that was opened
    - [Korea Craft Design Interior Item][korea-craft-design-interior-item-252023]
    - [Rpg Essentials Sound Effects Free][rpg-essentials-sound-effects-free-227708]
    - [25 Free Realistic Textures Nature City Home Construction More][25-free-realistic-textures-nature-city-home-construction-more-240323]
-   - [crosshairs plus][Crosshairs Plus]
    - [footstep(snow and grass)][Footstep(Snow and Grass)]
    - [farming game FX - mIssion][Farming Game FX - MIssion]
 1. そのまま開発します．
 
 [yughues-free-ground-materials-13001]: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
-[Stones]:https://assetstore.unity.com/packages/3d/props/exterior/stones-40329
-[metal-grids-pbr-139298]:https://assetstore.unity.com/packages/2d/textures-materials/metal-grids-pbr-139298
-[korea-craft-design-interior-item-252023]:https://assetstore.unity.com/packages/3d/props/interior/korea-craft-design-interior-item-252023
-[rpg-essentials-sound-effects-free-227708]:https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708
-[25-free-realistic-textures-nature-city-home-construction-more-240323]:https://assetstore.unity.com/packages/2d/textures-materials/25-free-realistic-textures-nature-city-home-construction-more-240323
-[Crosshairs Plus]:https://assetstore.unity.com/packages/2d/gui/icons/crosshairs-plus-139902
-[Footstep(Snow and Grass)]:https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678
-[Farming Game FX - MIssion]:https://assetstore.unity.com/packages/vfx/particles/environment/farming-game-fx-mission-236550
+[Stones]: https://assetstore.unity.com/packages/3d/props/exterior/stones-40329
+[metal-grids-pbr-139298]: https://assetstore.unity.com/packages/2d/textures-materials/metal-grids-pbr-139298
+[korea-craft-design-interior-item-252023]: https://assetstore.unity.com/packages/3d/props/interior/korea-craft-design-interior-item-252023
+[rpg-essentials-sound-effects-free-227708]: https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708
+[25-free-realistic-textures-nature-city-home-construction-more-240323]: https://assetstore.unity.com/packages/2d/textures-materials/25-free-realistic-textures-nature-city-home-construction-more-240323
+[Footstep(Snow and Grass)]: https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678
+[Farming Game FX - MIssion]: https://assetstore.unity.com/packages/vfx/particles/environment/farming-game-fx-mission-236550
