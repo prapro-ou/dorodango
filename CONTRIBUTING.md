@@ -22,6 +22,11 @@ Actually, this project is for the cource "Practical Programming" that was opened
    - [25 Free Realistic Textures Nature City Home Construction More][25-free-realistic-textures-nature-city-home-construction-more-240323]
    - [footstep(snow and grass)][Footstep(Snow and Grass)]
    - [farming game FX - mIssion][Farming Game FX - MIssion]
+   - [Stylized - Simple Hands][stylized-simple-hands]
+1. 以下に示される音声素材をダウンロードし，指定されたパスに保存します．
+   - [On-Jin 〜音人〜](https://on-jin.com/)
+     - 環境系音 > 地 > 土砂・岩 > 砂崩れ・流砂03 --
+       `Assets/AudioClip/kan_ge_suna_sarasara03.mp3`
 1. そのまま開発します．
 
 [yughues-free-ground-materials-13001]: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
@@ -32,3 +37,6 @@ Actually, this project is for the cource "Practical Programming" that was opened
 [25-free-realistic-textures-nature-city-home-construction-more-240323]: https://assetstore.unity.com/packages/2d/textures-materials/25-free-realistic-textures-nature-city-home-construction-more-240323
 [Footstep(Snow and Grass)]: https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678
 [Farming Game FX - MIssion]: https://assetstore.unity.com/packages/vfx/particles/environment/farming-game-fx-mission-236550
+[stylized-simple-hands]: https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297
+
+
